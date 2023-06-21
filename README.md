@@ -7,10 +7,15 @@ To create an API to print HELLO WORLD.
 ## Algorithm:
 
 1.Open Spring Initialzr.
+
 2.Save the zip file.
+
 3.Open an IDE like IntelliJ,Oracle etc.
+
 4.Open the folder in the IDE.
+
 5.Create Components.
+
 6.Connect the database with the SpringBoot.
 
 ## Program:
